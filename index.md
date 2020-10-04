@@ -1,8 +1,7 @@
-# Welcome to GitHub Pages
+# Kiha Kim
 
-You can use the [editor on GitHub](https://github.com/kiha-kim/kiha-kim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aspiring UX/UI designer based in Chapel Hill, North Carolina (originally from Seoul, South Korea).
+NC State grad, customer service representative, full-time problem spotter
 
 ### Markdown
 
