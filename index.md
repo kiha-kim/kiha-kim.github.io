@@ -7,6 +7,7 @@ NC State grad, customer service representative, full-time problem spotter
 
 ### spjcc.org redesign
 
+![spjcc.org homepage](_images/spjcc.png)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
