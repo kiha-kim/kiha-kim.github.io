@@ -3,7 +3,11 @@
 Aspiring UX/UI designer based in Chapel Hill, North Carolina (originally from Seoul, South Korea).
 NC State grad, customer service representative, full-time problem spotter
 
-### Markdown
+## My Projects
+
+### spjcc.org redesign
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
