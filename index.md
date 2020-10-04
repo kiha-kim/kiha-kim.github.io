@@ -1,4 +1,4 @@
-# Kiha Kim
+## Kiha Kim
 
 Aspiring UX/UI designer based in Chapel Hill, North Carolina (originally from Seoul, South Korea).
 NC State grad, customer service representative, full-time problem spotter
