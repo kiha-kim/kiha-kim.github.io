@@ -8,7 +8,7 @@ NC State grad, customer service representative, full-time problem spotter
 ### spjcc.org redesign
 
 <p align="center">
-  <img width="460" height="300" src="_images/spjcc.png">
+  <img src="_images/spjcc.png">
 </p>
 
 **About this project**
